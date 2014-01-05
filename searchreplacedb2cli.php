@@ -1,4 +1,4 @@
-#!/usr/bin/php -q
+#!/cygdrive/c/amp/php/php -q
 
 <?php
 
